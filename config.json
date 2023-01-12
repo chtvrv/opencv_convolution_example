@@ -1,0 +1,6 @@
+{
+  "input_dir": "cats",
+  "output_dir": "processed_cats",
+  "kernel_file": "kernels/basic.txt",
+  "should_use_openmp": true
+}
